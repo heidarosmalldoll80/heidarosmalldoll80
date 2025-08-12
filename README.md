@@ -1,18 +1,16 @@
-# Einführung
-Hallo! Ich bin heidarosmalldoll80, eine leidenschaftliche Entwicklerin mit einem Fokus auf innovative Lösungen.
+# heidarosmalldoll80
 
-# Fähigkeiten
-- **Programmiersprachen:** Python, JavaScript, C++  
-- **Webentwicklung:** HTML, CSS, React  
-- **Datenbanken:** MySQL, MongoDB  
-- **Tools:** Git, Docker, Visual Studio Code
+**Theme:** web-development
 
-# Projekte
-- **Projekt A:** Eine Webanwendung zur Verwaltung von Aufgaben  
-- **Projekt B:** Ein spielbasiertes Lernprogramm für Kinder  
-- **Projekt C:** Eine API für Wetterdaten
+## About
+Focused on web-development.
 
-# Kontakte
-- **E-Mail:** heidarosmalldoll80@example.com  
-- **LinkedIn:** [linkedin.com/in/heidarosmalldoll80](https://linkedin.com/in/heidarosmalldoll80)  
-- **Twitter:** [@heidarosmalldoll80](https://twitter.com/heidarosmalldoll80)
+## Tech
+- Python · Git · CI/CD
+- - web
+- frontend
+- backend
+- react
+
+## Links
+- Profile: https://github.com/heidarosmalldoll80
